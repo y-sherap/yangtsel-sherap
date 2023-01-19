@@ -18,14 +18,14 @@ return (
                 animate={animateTo}
                 transition={{delay: 0.30}}
                 onClick={() => props.isMobile && props.closeMobileMenu()}>
-                <a href="/">Home</a>
+                <a href="/">home</a>
             </motion.li>
             <motion.li 
                 initial={animateFrom}
                 animate={animateTo}
                 transition={{delay: 0.30}}
                 onClick={() => props.isMobile && props.closeMobileMenu()}>
-                <a href="/info">Info</a>
+                <a href="/info">info</a>
             </motion.li>
         </ul>
     </div>

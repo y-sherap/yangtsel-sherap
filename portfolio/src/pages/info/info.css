@@ -1,0 +1,42 @@
+#info-page {
+    display: flex;
+    flex-direction: column;
+    color: blue;
+    padding: 14% 40% 8% 25%;
+    font-size: 18px;
+}
+
+#info {
+    display: flex;
+    flex-direction: column;
+    width: 40vw;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+}
+
+.info-item{
+    margin-top: 2%;
+}
+
+#contact {
+    display: flex;
+    flex-direction: row;
+    /* border: green 2px solid; */
+    text-decoration: none;
+    color: blue;
+    margin-top: 18%;
+}
+
+.contact-item{
+    margin: 0% 2% 0% 2%;
+}
+
+.contact-item-0{
+    margin-right: 2%;
+}
+
+a{
+    color:blue;
+    text-decoration: none;
+}
