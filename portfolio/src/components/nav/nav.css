@@ -4,6 +4,7 @@
     height: 100%;
     width: 100%;
 }
+
 #navbarContainer {
     justify-content: left;
     font-family: "Roboto", sans-serif;
@@ -36,6 +37,8 @@
     text-decoration: none;
     color: rgb(0, 0, 0);
     margin-bottom: 2px;
+    color: blue;
+
 }
 
 #navbarContainer a:hover {

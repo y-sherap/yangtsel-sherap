@@ -7,7 +7,7 @@ return (
         <ul>
             <li 
                 onClick={() => props.isMobile && props.closeMobileMenu()}>
-                <a href="/">yangtsel sherap</a>
+                <a href="/">yangtsel sherap 𓆟</a>
             </li>
             <li 
                 onClick={() => props.isMobile && props.closeMobileMenu()}>
