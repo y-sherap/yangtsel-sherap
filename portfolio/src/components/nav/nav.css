@@ -3,6 +3,7 @@
     flex-direction: row;
     height: 100%;
     width: 100%;
+    
 }
 
 #navbarContainer {
@@ -15,6 +16,8 @@
     left: 0;
     z-index: 999;
     font-size: 12px;
+    font-family: 'Oxygen Mono', monospace;
+
 }
 
 #nav-links {
@@ -38,7 +41,7 @@
     color: rgb(0, 0, 0);
     margin-bottom: 2px;
     color: blue;
-
+    font-family: 'Oxygen Mono', monospace;
 }
 
 #navbarContainer a:hover {
@@ -69,6 +72,7 @@
 
     #mobileNavigation{
     display:flex;
+    margin-right: 4%;
     }
 
     #mobileNavigation #hamburger {
@@ -76,6 +80,7 @@
     position: absolute;
     right: 1%;
     top: 0;
+    color: yellow;
     }
 
     nav ul {
@@ -83,7 +88,6 @@
     flex-direction: column;
     width: 100%;
     height: 100%;
-    margin-right: 60%;
     justify-content: center;
     align-items: center;
     margin-top: 35%;

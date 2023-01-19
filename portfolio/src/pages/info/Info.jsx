@@ -5,7 +5,7 @@ function Info() {
   return (
     <div id='info-page'>
       <div id='info'>
-          <div className='info-item'>Hi I'm Yangtsel (ﾉ´ヮ´)ﾉ*:･ﾟ✧.</div>
+          <div id='info-item-0'>Hi I'm Yangtsel (ﾉ´ヮ´)ﾉ*:･ﾟ✧</div>
           
           <div className='info-item'>Hope you had a pleasant journey navigating your way to my corner of the internet. I am a NYC based software engineer exploring alternative ways of interacting and sharing knowledge on the web~</div> 
           <div className='info-item'>I am interested in the confluence between technology and our natural and built environments and how these forces shape the world around us.</div>

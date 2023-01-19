@@ -3,6 +3,8 @@
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
+    font-family: 'Oxygen Mono', monospace;
+
 }
 
 .portfolio-item {

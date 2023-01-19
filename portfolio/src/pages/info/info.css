@@ -4,6 +4,13 @@
     color: blue;
     padding: 13% 40% 8% 25%;
     font-size: 18px;
+    font-family: 'Oxygen Mono', monospace;
+
+}
+
+#info-item-0{
+    /* color: #D6CB1F; */
+    font-size: 22px;
 }
 
 #info {
