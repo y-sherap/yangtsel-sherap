@@ -1,8 +1,14 @@
-import React from 'react'
+import './nav.css'
+import MobileNav from './MobileNav'
+import Navigation from './Navigation'
 
-function Navbar() {
+const Navbar = () => {
+
   return (
-    <div>Navbar</div>
+      <div id="navbarContainer">
+        <MobileNav />
+        <Navigation />
+      </div>
   )
 }
 
