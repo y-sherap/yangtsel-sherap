@@ -9,7 +9,6 @@
 }
 
 #info-item-0{
-    /* color: #D6CB1F; */
     font-size: 22px;
 }
 
@@ -28,7 +27,6 @@
 #contact {
     display: flex;
     flex-direction: row;
-    /* border: green 2px solid; */
     text-decoration: none;
     color: blue;
     margin-top: 18%;
@@ -58,7 +56,6 @@ a:hover{
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        text-align: justify;
         padding-top: 22%;
         color: blue;
         font-size: 18px;
@@ -67,6 +64,7 @@ a:hover{
     #info {
         width: 18em;
         padding-left: 40%;
+        text-align: start;
     }
     
     .info-item{
