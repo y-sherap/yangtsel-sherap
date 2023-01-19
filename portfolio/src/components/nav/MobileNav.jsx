@@ -1,8 +1,8 @@
 import React from 'react'
 import NavLinks from './NavLinks'
 import './nav.css'
-import {BiMenu} from 'react-icons/bi'
-import {GrFormClose} from 'react-icons/gr'
+import {VscMenu} from 'react-icons/vsc'
+import {VscClose} from 'react-icons/vsc'
 import { useState } from 'react'
 
 const MobileNav = () => {
@@ -10,12 +10,12 @@ const MobileNav = () => {
 const [open, setOpen] = useState(false)
 
 const hamburgerIcon = 
-    <BiMenu id="hamburger" 
+    <VscMenu id="hamburger" 
     size='40px' color="black"
     onClick={()=> setOpen(!open)} />
 
 const closeIcon = 
-    <GrFormClose id="hamburger" 
+    <VscClose id="hamburger" 
     size='40px' color="black"
     onClick={()=> setOpen(!open)} />
 
