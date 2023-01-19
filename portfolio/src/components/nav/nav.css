@@ -25,7 +25,7 @@
 #navbarContainer nav ul{
     list-style: none;  
     padding-left: 20%;
-    padding-top: 20%;
+    padding-top: 10%;
     width: 200px;
 }
 
@@ -86,12 +86,12 @@
     margin-right: 60%;
     justify-content: center;
     align-items: center;
-    margin-top: 60%;
+    margin-top: 35%;
     }
 
     #navbarContainer nav ul li a {
     text-decoration: none;
-    color: rgb(0, 0, 0);
+    color: blue;
 }
 }
 

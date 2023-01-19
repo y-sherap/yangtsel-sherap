@@ -31,7 +31,7 @@ a {
 
 @media (max-width: 990px) {
     #portfolio-component {
-        padding: 20% 7% 10% 13%;
+        padding: 22% 7% 10% 13%;
         display: flex;
         flex-flow: row wrap;
         justify-content: center;
