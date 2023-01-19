@@ -4,7 +4,6 @@
     flex-flow: row wrap;
     justify-content: center;
     font-family: 'Oxygen Mono', monospace;
-
 }
 
 .portfolio-item {
@@ -33,7 +32,7 @@ a {
 
 @media (max-width: 990px) {
     #portfolio-component {
-        padding: 22% 7% 10% 13%;
+        padding: 25% 7% 10% 13%;
         display: flex;
         flex-flow: row wrap;
         justify-content: center;
