@@ -7,11 +7,11 @@ return (
         <ul>
             <li 
                 onClick={() => props.isMobile && props.closeMobileMenu()}>
-                <a href="/">yangtsel sherap 𓆟</a>
+                <a href="/">home 𓆟</a>
             </li>
             <li 
                 onClick={() => props.isMobile && props.closeMobileMenu()}>
-                <a href="/info">info</a>
+                <a href="/work">work 𓆟</a>
             </li>
         </ul>
     </div>
