@@ -1,15 +1,23 @@
 import './nav.css'
-import MobileNav from './MobileNav'
-import Navigation from './Navigation'
+import { Link } from 'react-router-dom'
 
 const Navbar = () => {
-
   return (
-      <div id="navbarContainer">
-        <MobileNav />
-        <Navigation />
-      </div>
-  )
+    <div>
+        <div id="navContainer">
+            <div id='nav-title'>
+                <Link to='/'>yangtsel sherap 𓆟</Link>
+            </div>
+            <div>
+                <Link to='/work'>work</Link>
+            </div>
+
+            
+        </div>
+
+    </div>
+)
 }
+
 
 export default Navbar
