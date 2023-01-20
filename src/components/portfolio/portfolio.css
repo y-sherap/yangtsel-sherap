@@ -16,7 +16,7 @@
 }
 
 .imageTitle:hover {
-    color: #D6CB1F;
+    color: black;
 }
 
 img {
@@ -27,7 +27,7 @@ img {
 .imageTitle {
     font-size: 20px;
     margin-top: 2%;
-    color: blue;
+    color: black;
 }
 
 a {

@@ -42,12 +42,12 @@ span {
     text-decoration: none;
     color: rgb(0, 0, 0);
     margin-bottom: 2px;
-    color: blue;
+    color: black;
     font-family: 'Oxygen Mono', monospace;
 }
 
 #navbarContainer a:hover {
-    color: #D6CB1F;
+    color: #b0a82c;
 }
 
 #mobileNavigation{
