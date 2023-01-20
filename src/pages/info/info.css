@@ -3,7 +3,7 @@
     flex-direction: column;
     color: blue;
     padding: 13% 40% 8% 25%;
-    font-size: 18px;
+    font-size: 16px;
     font-family: 'Oxygen Mono', monospace;
 
 }
@@ -58,7 +58,7 @@ a:hover{
         align-items: center;
         padding-top: 22%;
         color: blue;
-        font-size: 18px;
+        font-size: 16px;
     }
     
     #info {
@@ -68,13 +68,14 @@ a:hover{
     }
     
     .info-item{
-        margin-top: 10%;
+        margin-top: 8%;
     }
     
     #contact {
         text-decoration: none;
         color: blue;
         margin-top: 35%;
+        text-align: start;
     }
     
     .contact-item{
