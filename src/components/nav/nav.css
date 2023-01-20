@@ -17,8 +17,10 @@
     z-index: 999;
     font-size: 12px;
     font-family: 'Oxygen Mono', monospace;
-
 }
+
+span {
+    color: #b0a82c;}
 
 #nav-links {
     display: flex;
@@ -95,7 +97,6 @@
 
     #navbarContainer nav ul li a {
     text-decoration: none;
-    color: #D6CB1F;
-}
+    color: #b0a82c;}
 }
 
