@@ -36,10 +36,13 @@ span {
 
 .contact-item{
     margin: 0% 2% 0% 2%;
+    border-bottom: black solid 1px;
+
 }
 
 .contact-item-0{
     margin-right: 2%;
+    border-bottom: black solid 1px;
 }
 
 a{
@@ -47,10 +50,12 @@ a{
     text-decoration: none;
 }
 
+
 a:hover{
     color: #b0a82c;
     text-decoration: none;
 }
+
 
 @media (max-width:990px){
     #info-page {

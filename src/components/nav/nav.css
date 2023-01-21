@@ -2,18 +2,15 @@
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    background-color: #fcfcf2c1;
+    background-color: #ffffffc1;
     height: 30px;
     width: auto;
-    font-size: 14px;
+    font-size: 12px;
     font-family: var(--secondary-font);
-    padding: 2%;
+    padding: 1%;
 }
 
-
-/* @media (max-width: 990px) {
-    #navigation {
-    display: none;
-    }
-} */
+Link{
+    border-bottom: none;
+}
 
