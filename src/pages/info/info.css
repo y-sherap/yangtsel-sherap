@@ -5,12 +5,12 @@
     justify-content: center;
     color: black;
     padding: 10% 50% 10% 50%;
-    font-size: 16px;
-    font-family: serif;
+    font-size: 15px;
+    font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 #info-item-0{
-    font-size: 16px;
+    font-size: 15px;
 }
 
 #info {
@@ -31,7 +31,7 @@ span {
     flex-direction: row;
     text-decoration: none;
     color: black;
-    margin-top: 10%;
+    margin-top: 8%;
 }
 
 .contact-item{

@@ -3,7 +3,7 @@
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
-    font-family: serif;
+    font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 .portfolio-item {
@@ -12,7 +12,9 @@
     text-decoration: none;
     color: black;
     margin: 0% 6% 6% 0%;
-    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    /* box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23); */
+    background-color: #ffffffc1;
+
 }
 
 .imageTitle:hover {
@@ -25,14 +27,27 @@ img {
 }
 
 .imageTitle {
-    font-size: 20px;
-    margin-top: 2%;
+    font-size: 13px;
+    margin-bottom: 2%;
     color: black;
+    font-weight: bolder;
+}
+
+.imageTitleYear {
+    font-size: 13px;
+    margin-bottom: 2%;
+    color: rgb(164, 163, 163);
 }
 
 a {
     text-decoration: none;
 }
+
+.portfolio-item:hover {
+    opacity: 50%;
+
+}
+
 
 @media (max-width: 990px) {
     #portfolio-component {
@@ -47,7 +62,6 @@ a {
         height: 350px;
         text-decoration: none;
         margin: 0 6% 30% 0%;
-        box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
     }
     
     img {
@@ -55,9 +69,16 @@ a {
         height: 100%;
     }
     
-    .imageTitle {
-        font-size: 25px;
-        margin-top: 2%;
-        color:black;
-    }
+.imageTitle {
+    font-size: 13px;
+    margin-bottom: 2%;
+    color: black;
+    font-weight: bolder;
+}
+
+.imageTitleYear {
+    font-size: 13px;
+    margin-bottom: 2%;
+    color: rgb(164, 163, 163);
+}
 }
