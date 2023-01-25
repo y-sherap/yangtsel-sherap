@@ -1,10 +1,12 @@
 #info-page {
     display: flex;
     flex-direction: column;
+    align-items: center;
+    justify-content: center;
     color: black;
-    padding: 10% 40% 8% 25%;
+    padding: 10% 50% 10% 50%;
     font-size: 16px;
-    font-family: var(--secondary-font);
+    font-family: serif;
 }
 
 #info-item-0{
@@ -14,9 +16,7 @@
 #info {
     display: flex;
     flex-direction: column;
-    width: 40vw;
-    justify-content: center;
-    text-align: justify;
+    width: 30vw;
 }
 
 span {
@@ -31,13 +31,12 @@ span {
     flex-direction: row;
     text-decoration: none;
     color: black;
-    margin-top: 14%;
+    margin-top: 10%;
 }
 
 .contact-item{
     margin: 0% 2% 0% 2%;
     border-bottom: black solid 1px;
-
 }
 
 .contact-item-0{
@@ -50,10 +49,17 @@ a{
     text-decoration: none;
 }
 
-
 a:hover{
     color: #b0a82c;
     text-decoration: none;
+}
+
+ul li a{
+    border-bottom: solid black 1px;
+}
+
+li{
+    margin-top: 2px;
 }
 
 

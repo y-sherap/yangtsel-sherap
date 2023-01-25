@@ -15,11 +15,10 @@ function Info() {
           <li><a href='https://www.versobooks.com/books/2163-extrastatecraft'>Keller Easterling</a></li>
           <li><a href='https://solar.lowtechmagazine.com/'>Low-Tech Magazine</a></li>
           <li><a href='http://dunneandraby.co.uk/content/projects'>Anthony Dunne and Fiona Raby</a></li>
+          <li><a href='https://placesjournal.org/article/maintenance-and-care/?cn-reloaded=1&cn-reloaded=1'>'Maintenance and Care' - Shannon Mattern</a></li>
         </ul>
         </div>
-      </div>
-
-      <div id="contact">
+        <div id="contact">
           <div className='contact-item-0'>
           <a href="https://read.cv/ysherap" rel="noreferrer" target="_blank">cv</a>
           </div>
@@ -35,6 +34,7 @@ function Info() {
           <div className='contact-item'>
           <a href="https://www.are.na/yangtsel-sherap" rel="noreferrer" target="_blank">are.na</a>
           </div>
+      </div>
       </div>
       </div>
   )

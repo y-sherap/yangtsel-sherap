@@ -3,7 +3,7 @@
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
-    font-family: var(--secondary-font);
+    font-family: serif;
 }
 
 .portfolio-item {
@@ -34,7 +34,6 @@ a {
     text-decoration: none;
 }
 
-
 @media (max-width: 990px) {
     #portfolio-component {
         padding: 15% 7% 10% 13%;
@@ -44,8 +43,8 @@ a {
     }
     
     .portfolio-item {
-        width: 400px;
-        height: 400px;
+        width: 350px;
+        height: 350px;
         text-decoration: none;
         margin: 0 6% 30% 0%;
         box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
