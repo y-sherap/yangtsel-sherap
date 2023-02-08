@@ -24,11 +24,7 @@ function Info() {
           </div>
           <div>/</div>
           <div className='contact-item'>
-          <a href="https://linkedin.com/in/ysherap" rel="noreferrer" target="_blank">linkedin</a>
-          </div>
-          <div>/</div>
-          <div className='contact-item'>
-          <a href="https://github.com/y-sherap" rel="noreferrer" target="_blank">github</a>
+          <a href="https://twitter.com/realityforsale" rel="noreferrer" target="_blank">twitter</a>
           </div>
           <div>/</div>
           <div className='contact-item'>
