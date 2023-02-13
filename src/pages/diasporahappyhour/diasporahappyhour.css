@@ -11,12 +11,9 @@
   width: 20vw; 
   position: fixed;
   left: 0; 
-  /* position: fixed;
-  bottom: 0; */
-  /* background: rgb(85, 71, 71); */
 }
 
-#left-text{
+.left-text{
   margin-bottom: 20px;
 }
 
@@ -25,10 +22,8 @@
   padding-bottom: 1%;
   display: flex;
   flex-direction: column;
-  /* justify-content: center; */
   margin-left: 35%;
   width: 100%;
-  /* background-color:red; */
 }
 
 .diaspora-image-title{
@@ -42,4 +37,34 @@ img{
 
 .image-item{
   margin-bottom: 10px;
+}
+
+@media (max-width: 990px){
+  #diaspora-page{
+    display: flex;
+    flex-direction: column;
+    padding-top: 30%;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #diaspora-right{
+    display: flex;
+    flex-direction: column;
+    margin-left: 0;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #diaspora-left{
+    display: flex;
+    flex-direction: column;
+    padding-top: 2%;
+    position: relative;
+    width: 90%;
+  }
+
+  img{
+    max-width: 350px;
+  }
 }
