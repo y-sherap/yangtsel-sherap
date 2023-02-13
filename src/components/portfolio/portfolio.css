@@ -5,7 +5,7 @@
     position: absolute;
     right: 0;
     bottom: 0;
-    padding: 10% 0% 3% 3%;
+    padding: 10% 0% 1% 3%;
     text-align:right;
     font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
@@ -15,4 +15,18 @@
     color: black;
     margin-right: 1%;
     font-size: 20px;
+}
+
+@media (max-width: 900px) {
+    #portfolio-component {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        position: absolute;
+        right: 0;
+        bottom: 0;
+        padding: 10% 0% 2% 3%;
+        text-align:right;
+        font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
 }
