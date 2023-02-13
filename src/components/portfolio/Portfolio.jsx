@@ -4,13 +4,17 @@ import './portfolio.css'
 function Portfolio() {
 return (
     <div id='portfolio-component'>
-
         <div className="portfolio-item">
-        <a href="https://tibetan-alphabets.vercel.app/" target="_blank" rel="noreferrer">
-        <div className="imageTitle">Tibetan Alphabet</div>
-        <div className="imageTitleYear">2023</div>
-        <div className='card-color'></div>
-        </a>
+            <a href="https://tibetan-alphabets.vercel.app/" target="_blank" rel="noreferrer">
+            (01) tibetan alphabet</a>
+        </div>
+        <div className="portfolio-item">
+            <a href="https://hostilearchitecture.vercel.app/" target="_blank" rel="noreferrer">
+            (02) hostile architecture</a>
+        </div>
+        <div className="portfolio-item">
+            <a href="https://hostilearchitecture.vercel.app/" target="_blank" rel="noreferrer">
+            (03) diaspora happy hour (coming soon) </a>
         </div>
     </div>
 )

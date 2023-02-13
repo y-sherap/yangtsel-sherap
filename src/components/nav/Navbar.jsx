@@ -6,13 +6,11 @@ const Navbar = () => {
     <div>
         <div id="navContainer">
             <div id='nav-title'>
-                <Link to='/'>Yangtsel Sherap</Link>
+                <Link to='/'>yangtsel sherap</Link>
             </div>
-            <div id='nav-title'>
-                <Link to='/work'>Portfolio</Link>
+            <div id='nav-right'>
+                <Link to='/info'>info</Link>
             </div>
-
-            
         </div>
 
     </div>

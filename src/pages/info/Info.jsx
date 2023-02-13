@@ -5,12 +5,10 @@ function Info() {
   return (
     <div id='info-page'>
       <div id='info'>
-          <div id='info-item-0'>Hello<span> 𓆟࿐</span></div>
-          
-          <div className='info-item'>Hope you had a pleasant journey navigating your way to my corner of the internet. I am a NYC based software engineer exploring alternative ways of interacting and sharing knowledge on the web~</div> 
-          <div className='info-item'>I am interested in the confluence between technology and our natural and built environments and how these forces shape the world around us.</div>
+          <div className='info-item'>Yangtsel (she/her) is a NYC based software engineer exploring alternative ways of interacting and sharing knowledge on the web~</div> 
+          <div className='info-item'>She is interested in the confluence between technology and the natural and built environments and how these forces shape the world around us.</div>
 
-        <div className='info-item'>My influences include:
+        <div className='info-item'>Her influences include:
         <ul>
           <li><a href='https://www.versobooks.com/books/2163-extrastatecraft'>Keller Easterling</a></li>
           <li><a href='https://solar.lowtechmagazine.com/'>Low-Tech Magazine</a></li>

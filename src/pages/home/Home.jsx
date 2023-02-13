@@ -1,5 +1,6 @@
 import React from 'react'
 import Portfolio from '../../components/portfolio/Portfolio'
+// import Info from '../../pages/info/Info'
 
 function Home() {
   return (
@@ -7,7 +8,6 @@ function Home() {
       <div>
         <Portfolio />
       </div>
-
     </div>
   )
 }
