@@ -13,9 +13,12 @@ return (
             (02) hostile architecture</a>
         </div>
         <div className="portfolio-item">
+            (03) diaspora happy hour (coming soon) 
+        </div>
+        {/* <div className="portfolio-item">
             <a href="https://hostilearchitecture.vercel.app/" target="_blank" rel="noreferrer">
             (03) diaspora happy hour (coming soon) </a>
-        </div>
+        </div> */}
     </div>
 )
 }
