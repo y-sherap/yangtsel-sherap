@@ -1,14 +1,7 @@
 import React from 'react'
 import './portfolio.css'
-// import { useNavigate } from 'react-router-dom'
 
 function Portfolio() {
-
-    // let navigate = useNavigate()
-
-    // const navigateToDHH = () => {
-    //     navigate('/diasporahappyhour')
-    // }
 return (
     <div id='portfolio-component'>
         <div className="portfolio-item">
@@ -20,7 +13,8 @@ return (
             (02) hostile architecture</a>
         </div>
         <div className="portfolio-item">
-            (03) diaspora happy hour (coming soon) 
+        <a href="https://yangtsel.world/diasporahappyhour" target="_blank" rel="noreferrer">
+            (03) diaspora happy hour</a>
         </div>
     </div>
 )

@@ -9,9 +9,6 @@ import image6 from './images/dhh-6.jpg'
 import image7 from './images/dhh-7.jpg'
 import image8 from './images/dhh-8.jpg'
 
-
-
-
 function DiasporaHappyHour() {
   return (
     <div id='diaspora-page'>
