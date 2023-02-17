@@ -41,7 +41,7 @@ function DiasporaHappyHour() {
         </div>
         <div id='diaspora-left'>
           <div className='left-text'>As a first generation immigrant in the United States and a third generation immigrant in India, my memories of "home" are just as distorted as these images I stumbled across while on google maps.</div>
-          <div className='left-text'>Diaspora Happy Hour is my attempt to map my identity and feed my nostalgia for my homeland, both in India and Tibet.  </div>
+          <div className='left-text'>Diaspora Happy Hour is my attempt to map my identity and feed my nostalgia for my homeland.  </div>
       </div>
       </div>
     </div>
