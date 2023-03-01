@@ -22,7 +22,7 @@ function Info() {
           </div>
           <div>/</div>
           <div className='contact-item'>
-          <a href="https://twitter.com/realityforsale" rel="noreferrer" target="_blank">twitter</a>
+          <a href="https://github.com/y-sherap" rel="noreferrer" target="_blank">github</a>
           </div>
           <div>/</div>
           <div className='contact-item'>

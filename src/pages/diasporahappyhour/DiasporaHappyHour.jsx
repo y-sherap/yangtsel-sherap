@@ -15,28 +15,28 @@ function DiasporaHappyHour() {
       <div id='diaspora-right'>
         <div id='images'>
           <div className='image-item'>
-            <img src={image1} alt='distorted image' />
+            <img src={image1} alt='distorted googlemaps' />
           </div>
           <div className='image-item'>
-            <img src={image2} alt='distorted image' />
+            <img src={image2} alt='distorted googlemaps' />
           </div>
           <div className='image-item'>
-            <img src={image3} alt='distorted image' />
+            <img src={image3} alt='distorted googlemaps' />
           </div>
           <div className='image-item'>
-            <img src={image4} alt='distorted image' />
+            <img src={image4} alt='distorted googlemaps' />
           </div>
           <div className='image-item'>
-            <img src={image5} alt='distorted image' />
+            <img src={image5} alt='distorted googlemaps' />
           </div>
           <div className='image-item'>
-            <img src={image6} alt='distorted image' />
+            <img src={image6} alt='distorted googlemaps' />
           </div>
           <div className='image-item'>
-            <img src={image7} alt='distorted image' />
+            <img src={image7} alt='distorted googlemaps' />
           </div>
           <div className='image-item'>
-            <img src={image8} alt='distorted image' />
+            <img src={image8} alt='distorted googlemaps' />
           </div>
         </div>
         <div id='diaspora-left'>
