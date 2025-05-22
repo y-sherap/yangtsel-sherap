@@ -5,7 +5,7 @@ function Info() {
   return (
     <div id='info-page'>
       <div id='info'>
-          <div className='info-item'>Yangtsel (she/her) is a NYC based product manager and engineer exploring alternative ways of interacting and sharing knowledge on the web~</div> 
+          <div className='info-item'>Yangtsel (she/her) is a NYC based product manager exploring alternative ways of interacting and sharing knowledge on the web~</div> 
           <div className='info-item'>She is interested in the confluence between technology and the natural and built environments and how these forces shape the world around us.</div>
 
         <div className='info-item'>Her influences include:
