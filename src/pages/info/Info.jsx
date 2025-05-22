@@ -21,9 +21,6 @@ function Info() {
           <a href="https://read.cv/ysherap" rel="noreferrer" target="_blank">cv</a>
           </div>
           <div>/</div>
-          <div className='contact-item'>
-          <a href="https://github.com/y-sherap" rel="noreferrer" target="_blank">github</a>
-          </div>
           <div>/</div>
           <div className='contact-item'>
           <a href="https://www.are.na/yangtsel-sherap" rel="noreferrer" target="_blank">are.na</a>
